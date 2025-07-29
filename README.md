@@ -21,4 +21,4 @@ To run this project locally:
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/book-store.git
+    git clone https://github.com/vetrishanmugi/book-store
